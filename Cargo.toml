@@ -3,6 +3,7 @@ name = "ak-inflate2"
 version = "0.1.0"
 authors = ["Dario Nieuwenhuis <dirbaio@dirbaio.net>"]
 edition = "2024"
+license = "Apache-2.0 OR MIT"
 
 [features]
 std = []
