@@ -11,7 +11,7 @@ std = []
 default = ["std"]
 
 [dependencies]
-embedded-io-async = "0.6.1"
+embedded-io-async = "0.7"
 
 [dev-dependencies]
 futures-test = "0.3.3"
