@@ -1,7 +1,7 @@
 [package]
 name = "ak-inflate2"
 version = "0.1.0"
-authors = ["Dario Nieuwenhuis <dirbaio@dirbaio.net>"]
+authors = ["Dario Nieuwenhuis <dirbaio@dirbaio.net>", "Ulf Lilleengen <ulf@digili.no>"]
 edition = "2024"
 license = "Apache-2.0 OR MIT"
 
